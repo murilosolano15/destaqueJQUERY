@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+ul{
+list-style: none;
+}
+
+li{
+    float: left;
+    padding: 15px;
+}
+
+img{
+    border: #cccccc 1px solid;
+    cursor: pointer; /* transforma o ponteiro do cursor em mao */
+}
